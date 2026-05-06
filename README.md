@@ -115,4 +115,4 @@ Leave unset for local dev (requests use relative `/api` through the Vite proxy).
 
 ## License
 
-Private / your choice — add a `LICENSE` file if you open-source the repo.
+Open source under the MIT License. 
